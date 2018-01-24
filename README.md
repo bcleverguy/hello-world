@@ -5,5 +5,5 @@ Madaíl
 Oliveira de Azeméis
 Aveiro
 Portugal
-Mundo
+Planeta
 Universo
